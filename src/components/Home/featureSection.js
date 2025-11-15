@@ -2,10 +2,10 @@ import React from "react"
 import Fade from "react-reveal/Fade"
 
 // Assets
-import HeroImage from "../../images/holographic-background-1.webp"
-import Image1 from "../../images/3D-liquid-abstract-1.webp"
-import Image2 from "../../images/3D-liquid-abstract.webp"
-import Image3 from "../../images/3D-liquid-abstract-3.webp"
+import HeroImage from "../../images/kasurkesehatan.jpg"
+import Image1 from "../../images/kasurkecantikan.jpg"
+import Image2 from "../../images/anekanbusa.jpg"
+import Image3 from "../../images/kasurtidur.jpg"
 
 const FeatureSection = () => {
   return (
@@ -13,20 +13,20 @@ const FeatureSection = () => {
       <Fade bottom cascade>
         <div className="mt-10 flex flex-row justify-space xxs:flex-col xs:flex-col sm:flex-row content-center justify-center align-middle text-center">
           <div className="w-1/3 bg-gradient-to-r from-pink to-purple p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-1/3">
-            <h3 className="text-black text-2xl">Performance</h3>
+            <h3 className="text-black text-2xl">kasur speq</h3>
             <h4 className="mt-10 text-black  opacity-70 text-xl">95+</h4>
           </div>
 
           <div className="w-1/3 bg-dp p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-1/3">
-            <h3 className="text-white text-2xl">Accessibility</h3>
+            <h3 className="text-white text-2xl">kasur kesehatan</h3>
             <h4 className="mt-10 text-white opacity-70 text-xl">100</h4>
           </div>
           <div className="w-1/3 bg-dp p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-1/3">
-            <h3 className="text-white text-2xl">Best Practices</h3>
+            <h3 className="text-white text-2xl">kasur buat kesehatan</h3>
             <h4 className="mt-10 text-white opacity-70 text-xl">100</h4>
           </div>
           <div className="lg:rounded-xl lg:w-1/3 lg:bg-dp bg-dp p-8 rounded-xl m-5 xxs:w-full xxs:bg-dp xxs:rounded-xl xs:w-full xs:bg-dp xs:rounded-xl sm:hidden md:hidden lg:block">
-            <h3 className="text-white text-2xl">SEO</h3>
+            <h3 className="text-white text-2xl">speq</h3>
             <h4 className="mt-10 text-white opacity-70 text-xl">100</h4>
           </div>
         </div>
@@ -43,15 +43,14 @@ const FeatureSection = () => {
           </div>
 
           <div className="lg:w-1/2 sm:text-center lg:text-right flex flex-col justify-center">
-            <h2 className="text-black text-4xl font-semibold">PERFORMANCE</h2>
+            <h2 className="text-black text-4xl font-semibold">kasur kesehatan</h2>
             <h3 className="text-black text-6xl font-bold xxs:text-2xl xs:text-3xl sm:text-5xl lg:text-6xl text-gradient bg-gradient-to-r from-pink to-purple">
-              Time to unlock new speeds
+              aneka busa kasur speq
             </h3>
 
             <p className="mt-3 text-base text-black-70 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-auto lg:mr-0">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s.
+              Kasur dengan bahan busa berkualitas tinggi, empuk, nyaman, dan tahan lama. 
+              Cocok untuk kebutuhan rumah tangga dan penginapan modern.
             </p>
 
             <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-end">
@@ -95,7 +94,7 @@ const FeatureSection = () => {
         <div className="mt-10 flex flex-row justify-space xxs:flex-col xs:flex-col sm:flex-row">
           <div className="w-2/6 bg-gradient-to-r from-pink to-purple p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-2/6">
             <span className="text-black font-semibold font-montserrat text-4xl">
-              TECH STACK
+              kasur speq
             </span>
             <div className="mt-5">
               <div>
@@ -117,19 +116,10 @@ const FeatureSection = () => {
 
           <div className="w-4/6 bg-dp p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-4/6">
             <h2 className="text-white text-4xl">
-              Start building amazing web experiences
+              kasur dengan kualitas khusus atau premium.
             </h2>
             <p className="mt-10 text-white opacity-70">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. It has
-              survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged. It was
-              popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages, and more recently with desktop
-              publishing software like Aldus PageMaker including versions of
-              Lorem Ipsum.
+              Kasur Speq Aneka Busa hadir dengan kualitas busa berstandar tinggi yang empuk, kuat, dan tidak mudah kempes. Dirancang untuk memberikan kenyamanan optimal, kasur ini mampu menopang tubuh dengan baik sehingga tidur lebih nyenyak dan bangun tanpa rasa pegal. Dibungkus kain halus yang elegan, Kasur Speq cocok untuk segala usia dan kebutuhan rumah tangga modern.
             </p>
           </div>
         </div>
@@ -137,41 +127,32 @@ const FeatureSection = () => {
 
       <div className="mt-10 px-8">
         <h2 className="text-black text-4xl font-semibold opacity-70">
-          OPEN SOURCE
+          PERFORMANCE
         </h2>
         <h3 className="text-black text-6xl font-bold xxs:text-2xl xs:text-3xl sm:text-5xl lg:text-6xl text-gradient bg-gradient-to-r from-pink to-purple">
-          A React based framework
+          KASUR SPEQ ANEKA BUSA
         </h3>
         <p className="text-black opacity-70 font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen book. It has survived not only
-          five centuries, but also the leap into electronic typesetting,
-          remaining essentially unchanged. It was popularised in the 1960s with
-          the release of Letraset sheets containing Lorem Ipsum passages, and
-          more recently with desktop publishing software like Aldus PageMaker
-          including versions of Lorem Ipsum.
+          Kasur Speq Aneka Busa adalah pilihan tepat untuk kenyamanan tidur Anda. Terbuat dari bahan busa premium yang empuk dan tahan lama, kasur ini dirancang untuk memberikan dukungan optimal bagi tubuh serta menjaga postur tidur yang sehat. Dengan desain modern dan kualitas tinggi, Kasur Speq mampu memberikan kenyamanan maksimal sepanjang malam.
+          Dibalut kain lembut yang adem dan elegan, kasur ini cocok digunakan di rumah, hotel, maupun tempat usaha. Teknologi busa yang digunakan memastikan kasur tidak mudah kempes dan tetap menjaga elastisitasnya meskipun digunakan dalam jangka panjang.
         </p>
       </div>
 
       <div className="mt-10 px-8">
         <h2 className="text-black text-4xl font-semibold opacity-70">
-          INTEGRATIONS
+          PRODUK KAMI
         </h2>
         <h3 className="text-black text-6xl font-bold xxs:text-2xl xs:text-3xl sm:text-5xl lg:text-6xl text-gradient bg-gradient-to-r from-pink to-purple">
-          Discover and connect
+          Temukan Kenyamanan Tidur Terbaik
         </h3>
         <p className="text-black opacity-70 font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen book. It has survived not only
-          five centuries, but also the leap into electronic typesetting,
-          remaining essentially unchanged. It was popularised in the 1960s with
-          the release of Letraset sheets containing Lorem Ipsum passages, and
-          more recently with desktop publishing software like Aldus PageMaker
-          including versions of Lorem Ipsum.
+          Kasur SPEQ hadir untuk memberikan pengalaman tidur yang maksimal dengan 
+          kualitas terbaik dan desain modern. Didesain menggunakan material premium 
+          yang lembut dan tahan lama, kasur SPEQ membantu Anda mendapatkan istirahat 
+          yang sempurna setiap malam. Dengan berbagai pilihan ukuran dan model, 
+          SPEQ menjadi solusi ideal untuk kebutuhan tidur keluarga Indonesia. 
+          Nikmati tidur nyenyak, bangun dengan tubuh segar, dan rasakan perbedaan 
+           nyata bersama kasur SPEQ.
         </p>
         <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
           <div className="rounded-md">
@@ -179,7 +160,7 @@ const FeatureSection = () => {
               href="/contact/"
               className="transition-all duration-500ms ease-in-out hover:ease-in-out w-full flex items-center justify-center px-8 py-3 text-base font-medium rounded-md text-center bg-purple text-white hover:text-black border border-purple hover:bg-transparent md:text-lg md:px-10"
             >
-              Send Enquiry
+              ini produk kami kasur speq
             </a>
           </div>
         </div>
@@ -203,19 +184,19 @@ const FeatureSection = () => {
         <div className="mt-10 flex flex-row justify-space xxs:flex-col xs:flex-col sm:flex-row content-center justify-center align-middle text-center">
           <div className="w-1/3 bg-gradient-to-r from-pink to-purple p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-1/3">
             <h3 className="text-black text-2xl">v1.0.0</h3>
-            <h4 className="mt-10 text-black opacity-70 text-xl">Released</h4>
+            <h4 className="mt-10 text-black opacity-70 text-xl">kesehatan</h4>
           </div>
 
           <div className="w-1/3 bg-dp p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-1/3">
-            <h3 className="text-white text-2xl">Fork</h3>
+            <h3 className="text-white text-2xl">kecantikan</h3>
             <h4 className="mt-10 text-white opacity-70 text-xl">
-              PR's welcome
+              kasur speq kecantikan
             </h4>
           </div>
           <div className="w-1/3 bg-dp p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-1/3">
-            <h3 className="text-white text-2xl">Stars</h3>
+            <h3 className="text-white text-2xl">Kenyamanan</h3>
             <h4 className="mt-10 text-white opacity-70 text-xl">
-              Give support
+              kasur speq kenyamanan
             </h4>
           </div>
         </div>

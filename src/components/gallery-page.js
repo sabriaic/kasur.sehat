@@ -1,8 +1,8 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 
-import HeroImage from "../images/3D-liquid-abstract-2.webp"
-import BackGroud from "../images/holographic-background.webp"
+import HeroImage from "../images/kasuraneka busa.jpg"
+import BackGroud from "../images/kasurspeq.jpg"
 
 const Gallery = () => {
   return (
@@ -11,16 +11,13 @@ const Gallery = () => {
         <div className="flex flex-row justify-space xxs:flex-col-reverse xs:flex-col-reverse sm:flex-row xxs:flex-col xs:flex-col sm:flex-row mb-5">
           <div className="max-h-80 w-1/2 flex flex-col justify-center bg-gradient-to-r from-pink to-purple p-8 rounded-xl m-4 xxs:w-full xs:w-full sm:w-full lg:w-full">
             <h1 className="text-black opacity-70 text-4xl font-semibold">
-              GALLERY
+              kasurkesehatan yang empuk
             </h1>
             <h1 className="text-white text-6xl font-bold xxs:text-2xl xs:text-3xl sm:text-5xl lg:text-6xl">
-              Holo Starter Theme
+              pt Aneka busa
             </h1>
             <p className="text-lg mt-4 text-white opacity-70 xxs:text-sm sm:text-lg">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+             Sejak pertama kali hadir, Kasur SPEQ telah menjadi pilihan keluarga Indonesia yang mengutamakan kualitas dan daya tahan. Produknya tidak mudah kempes, tetap nyaman digunakan bertahun-tahun, dan sangat cocok untuk kebutuhan rumah tangga, kos, hingga hotel.
             </p>
           </div>
           <div className="rounded-xl w-auto h-full object-cover flex justify-center">
@@ -46,7 +43,7 @@ const Gallery = () => {
               <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
 
               <span className="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">
-                Clean Animations
+                kasur keluarga
               </span>
             </a>
 
@@ -64,7 +61,7 @@ const Gallery = () => {
               <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
 
               <span className="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">
-                Easy to use
+                kasurkesehatan
               </span>
             </a>
 
@@ -82,7 +79,7 @@ const Gallery = () => {
               <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
 
               <span className="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">
-                Responsive
+                kasur kenyamanan
               </span>
             </a>
 
@@ -117,7 +114,7 @@ const Gallery = () => {
               <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
 
               <span className="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">
-                CMS Ready
+                kasurtidur
               </span>
             </a>
 
@@ -135,7 +132,7 @@ const Gallery = () => {
               <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
 
               <span className="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">
-                Fast
+                kasurkecantikan
               </span>
             </a>
           </div>
