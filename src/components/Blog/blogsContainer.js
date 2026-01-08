@@ -65,10 +65,10 @@ const BlogsContainer = ({ data }) => {
       </Fade>
       <div className="w-auto p-8 m-4 h-72 sm:h-96 xs:h-96 xxs:h-96 mt-10 bg-gradient-to-r from-pink to-purple rounded-xl flex flex-col items-center justify-center">
         <h2 className=" text-3xl font-bold text-black text-center">
-          STAY AHEAD OF THE CURVE
+          kasur speq aneka busa di pt aneka busa Indonesia
         </h2>
         <h3 className="text-lg mt-2 opacity-60 text-black text-center">
-          Subscribe to our newsletter, we will only send the good stuff!
+          bisa pesan ke kami untuk mendapatkan info proma dan diskon menarik
         </h3>
         <div className="text-black hover:text-white mt-10 flex flex-col items-center justify-center">
           <Input placeholder="Enter your email"></Input>
@@ -76,7 +76,7 @@ const BlogsContainer = ({ data }) => {
             href="#"
             className="mt-4 transition-all duration-500ms ease-in-out hover:ease-in-out inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-black hover:text-white rounded-lg border border-purple  hover:bg-purple"
           >
-            Join The List
+            segera hubugi kami
           </a>
         </div>
       </div>

@@ -5,7 +5,7 @@ import Button from "../components/Atoms/button"
 import Fade from "react-reveal/Fade"
 import Seo from "../components/seo"
 
-import image from "../images/dipan andin.jpg"
+import image from "../images/sabriseo.jpg"
 
 const Contact = () => {
   return (
@@ -50,7 +50,7 @@ const Contact = () => {
                     </div>
                     <div className="ml-2 grow">
                       <p className="mb-2 font-bold underline decoration-pink">
-                        no hp
+                        no whasap
                       </p>
                       <p className="text-neutral-500 mb-2">
                         <a href="tel:+#">(08) 81299420258</a>
@@ -80,7 +80,7 @@ const Contact = () => {
                     </div>
                     <div className="ml-2 grow">
                       <p className="mb-2 font-bold underline decoration-pink">
-                        Email
+                        gmail
                       </p>
                       <p className="text-neutral-500 mb-2">
                         <a href="mailto:hello@holo.com?subject=Contact Holo for help.">
@@ -112,7 +112,7 @@ const Contact = () => {
                     </div>
                     <div className="ml-2 grow">
                       <p className="mb-2 font-bold underline decoration-pink">
-                        Location
+                        sabri areta
                       </p>
                       <p className="text-neutral-500 mb-2">website</p>
                     </div>
@@ -206,7 +206,7 @@ const Contact = () => {
                     type="submit"
                     title="Send Message"
                     colorClass="bg-gradient-to-r from-pink to-purple font-montserrat"
-                    marginClass="mt-5"
+                    marginClass="mt-3"
                   ></Button>
                 </label>
               </div>
