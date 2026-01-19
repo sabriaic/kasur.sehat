@@ -19,13 +19,13 @@ const Footer = () => {
               </p>
               <p className="text-white text-lg font-bold mt-20">
                 <span className="text-black font-montserrat font-semibold mt-20">
-                  &copy; {new Date().getFullYear()}. Nyenyak Sepanjang Malam.
+                  &copy; {new Date().getFullYear()}.bisa tidur  Nyenyak Sepanjang Malam.
                 </span>
               </p>
               <div className="text-black font-bold block-inline">
                 <p>
                   <a className="text-black font-bold block-inline" href="/">
-                    Holo
+                    silakan pesan teman teman
                   </a>
 
                   <a

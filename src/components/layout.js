@@ -1,21 +1,22 @@
-/**
- * Layout component that queries for data
- * with Gatsby's useStaticQuery component
- *
- * See: https://www.gatsbyjs.com/docs/use-static-query/
- */
-
-import * as React from "react"
-import Footer from "./footer"
+import React from "react"
 import Navbar from "./navbar"
+import Footer from "./footer"
+import WhatsAppFloatWithPopup from "./WhatsAppFloatWithPopup"
 
 const Layout = ({ children }) => {
   return (
-    <div>
-      <Navbar></Navbar>
+    <>
+      <Navbar />
+
       {children}
-      <Footer></Footer>
-    </div>
+
+      <Footer />
+
+      <WhatsAppFloatWithPopup
+        phone="6281299420258"
+        message="Halo Simply Plus Education! Saya mau tanya nih "
+      />
+    </>
   )
 }
 
